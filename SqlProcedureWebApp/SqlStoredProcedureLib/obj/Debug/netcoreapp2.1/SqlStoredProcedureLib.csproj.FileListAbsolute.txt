@@ -1,0 +1,12 @@
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\bin\Debug\netcoreapp2.1\SqlStoredProcedureLib.deps.json
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\bin\Debug\netcoreapp2.1\SqlStoredProcedureLib.dll
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\bin\Debug\netcoreapp2.1\SqlStoredProcedureLib.pdb
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.csprojAssemblyReference.cache
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.csproj.CoreCompileInputs.cache
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.AssemblyInfoInputs.cache
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.AssemblyInfo.cs
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.dll
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.pdb
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\bin\Debug\netcoreapp2.1\System.Data.SqlClient.xml
+D:\Lib\Dot-Net-Core-SQL-Procedure-Lib\SqlProcedureWebApp\SqlStoredProcedureLib\obj\Debug\netcoreapp2.1\SqlStoredProcedureLib.csproj.CopyComplete
